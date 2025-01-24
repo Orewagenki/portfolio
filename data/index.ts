@@ -49,7 +49,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building and deploying Next.JS projects",
+    title:
+      "Currently building a React Native App with Payments | PostgreSQL, TypeScript, Stripe, Tailwind",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,132 +73,115 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
-  },
-  {
-    id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
-  },
-  {
-    id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
-  },
-  {
-    id: 4,
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "https://apple-website-silk-mu.vercel.app/",
+  },
+  {
+    id: 2,
+    title: "Video Game Discovery App",
+    des: "An app that allows you to search a library of video games.",
+    img: "",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://video-game-discovery-app-five.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Receipe App",
+    des: "An app that allows you to search a library of various receipes.",
+    img: "",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://foodapp-indol.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Portfolio Version 2",
+    des: "My Second Attempt at creating a portfolio website",
+    img: "",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://resume-app-phi-seven.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Portfolio Version 1",
+    des: "My first Attempt at creating a portfolio website",
+    img: "",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://resume-website-six-flax.vercel.app/",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager Of Software",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager Of Software",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager Of Software",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager Of Software",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
     name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    title: "Manager Of Software",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "Weber State University",
     img: "/cloud.svg",
     nameImg: "/cloudName.svg",
   },
   {
     id: 2,
-    name: "appwrite",
+    name: "Northrop Grumman",
     img: "/app.svg",
     nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Developer",
+    desc: "Assisted in the development of a web-based platform using C#(ASP.NET). Working with SQL database, and improving the User Experience via client-side JavaScript",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Associate Software Engineer",
+    desc: "Using engineering best practices and standards while participating in the full life cycle of software and systems development using C++.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Software Engineer",
+    desc: "Using engineering best practices and standards while participating in the full life cycle of software and systems development using C++.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
   },
 ];
 
