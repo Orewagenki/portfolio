@@ -116,15 +116,15 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Joey Sanchez is a company's dream developer. He has a vision for where he wants to be, and he lets that goal drive him to success. Some of the most successful people in life are able to endure through pain and monotony through a focus on Their greater goals. Joey Sanchez is one such person. A bit of a unicorn in terms of capability.",
+      "Joey Sanchez is a company's dream developer. He has a vision for where he wants to be, and he lets that goal drive him to success. Some of the most successful people in life are able to endure through pain and monotony through a focus on their greater goals. Joey Sanchez is one such person. A bit of a unicorn in terms of capability.",
     name: "Ryan Williamson",
     title: "Senior Principal Software Engineer",
   },
   {
     quote:
-      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Place Holder",
-    title: "Place Holder",
+      "Joey is willing to do things that he dislikes for months on end without complaining. He uses any spare time to  learn new skills. He is always looking for feedback on how to improve.",
+    name: "Jacob Platt",
+    title: "Senior Software Engineer",
   },
   {
     quote:
