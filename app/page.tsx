@@ -1,14 +1,17 @@
+/* eslint-disable react/react-in-jsx-scope */
 "use client";
 
+import dynamic from "next/dynamic";
 import { navItems } from "@/data";
 import Hero from "@/components/Hero";
-import Grid from "@/components/Grid";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
 import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
+
+const Grid = dynamic(() => import("@/components/Grid"), { ssr: false });
 
 const Home = () => {
   return (
