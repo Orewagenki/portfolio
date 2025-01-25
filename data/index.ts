@@ -83,32 +83,32 @@ export const projects = [
     id: 2,
     title: "Video Game Discovery App",
     des: "An app that allows you to search a library of video games.",
-    img: "",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    img: "/gameDiscovery.png",
+    iconLists: ["/ts.svg"],
     link: "https://video-game-discovery-app-five.vercel.app/",
   },
   {
     id: 3,
     title: "Receipe App",
     des: "An app that allows you to search a library of various receipes.",
-    img: "",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    img: "/foodapp.png",
+    iconLists: ["/c.svg"],
     link: "https://foodapp-indol.vercel.app/",
   },
   {
     id: 4,
     title: "Portfolio Version 2",
     des: "My Second Attempt at creating a portfolio website",
-    img: "",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    img: "/profile2.png",
+    iconLists: ["/ts.svg"],
     link: "https://resume-app-phi-seven.vercel.app/",
   },
   {
     id: 5,
     title: "Portfolio Version 1",
     des: "My first Attempt at creating a portfolio website",
-    img: "",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    img: "/workResume.png",
+    iconLists: ["/ts.svg"],
     link: "https://resume-website-six-flax.vercel.app/",
   },
 ];
@@ -116,33 +116,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Michael Johnson",
-    title: "Manager Of Software",
+      "Joey Sanchez is a company's dream developer. He has a vision for where he wants to be, and he lets that goal drive him to success. Some of the most successful people in life are able to endure through pain and monotony through a focus on Their greater goals. Joey Sanchez is one such person. A bit of a unicorn in terms of capability.",
+    name: "Ryan Williamson",
+    title: "Senior Principal Software Engineer",
   },
   {
     quote:
       "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Michael Johnson",
-    title: "Manager Of Software",
+    name: "Place Holder",
+    title: "Place Holder",
   },
   {
     quote:
       "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Michael Johnson",
-    title: "Manager Of Software",
+    name: "Place Holder",
+    title: "Place Holder",
   },
   {
     quote:
       "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Michael Johnson",
-    title: "Manager Of Software",
+    name: "Place Holder",
+    title: "Place Holder",
   },
   {
     quote:
       "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Michael Johnson",
-    title: "Manager Of Software",
+    name: "Place Holder",
+    title: "Place Holder",
   },
 ];
 
@@ -189,13 +189,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link: "https://github.com/Orewagenki",
   },
   {
     id: 2,
     img: "/twit.svg",
+    link: "",
   },
   {
     id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/joey-sanchez-190807319/",
   },
 ];
