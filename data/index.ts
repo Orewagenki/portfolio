@@ -128,9 +128,9 @@ export const testimonials = [
   },
   {
     quote:
-      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Place Holder",
-    title: "Place Holder",
+      "Joey Sanchez is diligent and committed to producing quality work. He is someone with the character of being first to work and proactive about making the most out of his work. As someone who has known him for multiple years, he is an excellent developer and is a pleasure to work with.",
+    name: "Spencer Williams",
+    title: "Software Engineer",
   },
   {
     quote:
