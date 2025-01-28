@@ -134,9 +134,9 @@ export const testimonials = [
   },
   {
     quote:
-      "Lorem ipsum odor amet, consectetuer adipiscing elit. Blandit pretium finibus suscipit vel eros. Proin platea vehicula augue ornare enim facilisi eu. Imperdiet scelerisque sodales blandit vehicula turpis dolor magnis neque. Natoque potenti lobortis ipsum mauris adipiscing lobortis gravida montes. ",
-    name: "Place Holder",
-    title: "Place Holder",
+      "Joey is a very quick learner, and is also not shy to speak up when he doesn’t understand something. We have collaborated on some web development projects and while working together Joey would ask very thoughtful questions to gain a deep understanding of the project. To add to that; Joey is highly receptive to feedback, utilizing it to refine and improve code, he is always seeking input from peers and mentors constantly striving for growth.",
+    name: "Dominik Rodriguez",
+    title: "Software engineer 2",
   },
   {
     quote:
