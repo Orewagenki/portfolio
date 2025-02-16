@@ -97,11 +97,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Portfolio Version 2",
-    des: "My Second Attempt at creating a portfolio website",
-    img: "/profile2.png",
+    title: "Production Ready API",
+    des: "Created API with JWT authentication, database modeling, API architecture, security, and automated workflows",
+    img: "/API.png",
     iconLists: ["/ts.svg"],
-    link: "https://resume-app-phi-seven.vercel.app/",
+    link: "https://github.com/Orewagenki/subscription-tracker",
   },
   {
     id: 5,
